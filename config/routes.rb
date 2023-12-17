@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  root "hello#index"
-end
+  root "application#hello"
+  git commit -am "Add hello"end
