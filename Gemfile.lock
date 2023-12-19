@@ -75,7 +75,6 @@ GEM
       execjs (~> 2)
     backport (1.2.0)
     bcrypt (3.1.18)
-    benchmark (0.2.1)
     benchmark (0.3.0)
     bindex (0.8.1)
     bootsnap (1.16.0)
@@ -187,7 +186,7 @@ GEM
     pry (0.14.2)
       coderay (~> 1.1)
       method_source (~> 1.0)
-    psych (5.1.1.1)
+    psych (5.1.2)
       stringio
     public_suffix (5.0.4)
     puma (5.6.5)
